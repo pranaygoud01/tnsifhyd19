@@ -23,10 +23,9 @@ Welcome to the TNS Foundation Training project! This repository documents the tr
 
 ### Advanced Java
 
-- **Servlets and JSP**: Building web applications, request handling, session management
 - **Spring Framework**: Dependency Injection, Spring MVC, Spring Boot
 - **Hibernate**: ORM concepts, configuration, and CRUD operations
-- **RESTful Web Services**: Designing and consuming REST APIs
+
 
 ## Training Goals
 
@@ -34,8 +33,3 @@ Welcome to the TNS Foundation Training project! This repository documents the tr
 - Gain hands-on experience in building, deploying, and maintaining Java-based web applications.
 - Improve problem-solving skills and ability to implement advanced features in web applications.
 
-## Setup and Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/tns-foundation-training.git
